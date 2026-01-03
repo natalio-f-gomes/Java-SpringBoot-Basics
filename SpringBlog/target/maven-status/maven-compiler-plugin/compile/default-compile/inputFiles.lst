@@ -1,0 +1,15 @@
+/Users/nataliogomes/Desktop/Projects/ChronicBlog/src/main/java/com/nataliogomes/chronicblog/ChronicBlogApplication.java
+/Users/nataliogomes/Desktop/Projects/ChronicBlog/src/main/java/com/nataliogomes/chronicblog/Controlllers/AccountController.java
+/Users/nataliogomes/Desktop/Projects/ChronicBlog/src/main/java/com/nataliogomes/chronicblog/Controlllers/IndexController.java
+/Users/nataliogomes/Desktop/Projects/ChronicBlog/src/main/java/com/nataliogomes/chronicblog/Controlllers/MovieController.java
+/Users/nataliogomes/Desktop/Projects/ChronicBlog/src/main/java/com/nataliogomes/chronicblog/Models/AccountModel.java
+/Users/nataliogomes/Desktop/Projects/ChronicBlog/src/main/java/com/nataliogomes/chronicblog/Models/MovieGenres.java
+/Users/nataliogomes/Desktop/Projects/ChronicBlog/src/main/java/com/nataliogomes/chronicblog/Models/MovieModel.java
+/Users/nataliogomes/Desktop/Projects/ChronicBlog/src/main/java/com/nataliogomes/chronicblog/Models/UserPrincipal.java
+/Users/nataliogomes/Desktop/Projects/ChronicBlog/src/main/java/com/nataliogomes/chronicblog/Repositories/AccountRepository.java
+/Users/nataliogomes/Desktop/Projects/ChronicBlog/src/main/java/com/nataliogomes/chronicblog/Repositories/MovieRepository.java
+/Users/nataliogomes/Desktop/Projects/ChronicBlog/src/main/java/com/nataliogomes/chronicblog/Services/AccountService.java
+/Users/nataliogomes/Desktop/Projects/ChronicBlog/src/main/java/com/nataliogomes/chronicblog/Services/MovieService.java
+/Users/nataliogomes/Desktop/Projects/ChronicBlog/src/main/java/com/nataliogomes/chronicblog/Services/MyCustomUserDetailService.java
+/Users/nataliogomes/Desktop/Projects/ChronicBlog/src/main/java/com/nataliogomes/chronicblog/config/SecurityConfig.java
+/Users/nataliogomes/Desktop/Projects/ChronicBlog/src/main/java/com/nataliogomes/chronicblog/config/WebConfig.java

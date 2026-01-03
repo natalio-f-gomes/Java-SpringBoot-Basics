@@ -1,0 +1,16 @@
+com/nataliogomes/chronicblog/Services/MovieService.class
+com/nataliogomes/chronicblog/Models/MovieGenres.class
+com/nataliogomes/chronicblog/Controlllers/MovieController.class
+com/nataliogomes/chronicblog/config/SecurityConfig.class
+com/nataliogomes/chronicblog/Models/MovieModel$Format.class
+com/nataliogomes/chronicblog/Repositories/AccountRepository.class
+com/nataliogomes/chronicblog/Models/MovieModel.class
+com/nataliogomes/chronicblog/Models/AccountModel.class
+com/nataliogomes/chronicblog/Controlllers/AccountController.class
+com/nataliogomes/chronicblog/Services/MyCustomUserDetailService.class
+com/nataliogomes/chronicblog/Repositories/MovieRepository.class
+com/nataliogomes/chronicblog/ChronicBlogApplication.class
+com/nataliogomes/chronicblog/config/WebConfig.class
+com/nataliogomes/chronicblog/Controlllers/IndexController.class
+com/nataliogomes/chronicblog/Services/AccountService.class
+com/nataliogomes/chronicblog/Models/UserPrincipal.class
