@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="642b796f-4f55-4adf-a2cb-059b38903924" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/hirehub/Controllers/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/hirehub/Controllers/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/hirehub/Controllers/JobController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/hirehub/Controllers/JobController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/hirehub/models/AccountModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/hirehub/models/AccountModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/hirehub/repos/AccountRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/hirehub/repos/AccountRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/hirehub/repos/JobRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/hirehub/repos/JobRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/hirehub/services/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/hirehub/services/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/hirehub/services/JobService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/hirehub/services/JobService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/addJob.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/addJob.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/browseJob.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/browseJob.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/editJob.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/editJob.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/fragments/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/fragments/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/jobDetail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/jobDetail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/hirehub/Controllers/JobController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/hirehub/Controllers/JobController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/hirehub/repos/AccountRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/hirehub/repos/AccountRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/hirehub/repos/JobRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/hirehub/repos/JobRepo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/hirehub/services/AccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/hirehub/services/AccountService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/hirehub/services/JobService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/hirehub/services/JobService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/addJob.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/addJob.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/fragments/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/fragments/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/jobDetail.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/jobDetail.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="NatalioF22 &lt;nataliogomes707@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2hmkXv80VzDItzUCXSXC8CX8q2I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.HireHub.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.header.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.HireHubApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nataliogomes/Desktop/Projects/HireHub&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/templates/staticpages" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.hirehub.models" />
+      <recent name="org.example.hirehub.services" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HireHub">
+    <configuration name="HireHub" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.example.hirehub.HireHubApplication" />
+      <module name="HireHub" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HireHubApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="HireHub" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.hirehub.HireHubApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="642b796f-4f55-4adf-a2cb-059b38903924" name="Changes" comment="" />
+      <created>1718206683365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718206683365</updated>
+      <workItem from="1718206684772" duration="7731000" />
+      <workItem from="1718295392465" duration="27683000" />
+      <workItem from="1718473321467" duration="27000" />
+      <workItem from="1718535747435" duration="2000" />
+      <workItem from="1718555269190" duration="6466000" />
+      <workItem from="1718633942967" duration="3657000" />
+      <workItem from="1718702103979" duration="5679000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1718560847247</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718560847248</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1718560877329</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718560877329</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1718561072240</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718561072240</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1718561095115</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718561095115</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1718561155365</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718561155365</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/hirehub/services/MyUserDetailService.java</url>
+          <line>19</line>
+          <properties class="org.example.hirehub.services.MyUserDetailService">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
